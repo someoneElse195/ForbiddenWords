@@ -1,8 +1,8 @@
 # ForbiddenWords
 
-First try making a spigot plugin for the QueerCoded community Minecraft server!
+This is my first try making a spigot plugin. I made this for the QueerCoded community minecraft coding competition.
 
-My initial intentions were to create a plugin that kills a player when they say a specific word with said word changing after a week.
+My initial intentions were to create a plugin that kills a player when they say a specific word which changes every week.
 The words would be unknown and the plugin would never directly tell you what the word is, only that you saying it caused your death. 
 At the end of each week it will tell you what the previous week's word was.
 
