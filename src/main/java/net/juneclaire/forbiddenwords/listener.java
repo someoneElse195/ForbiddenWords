@@ -20,7 +20,7 @@ public class listener implements Listener {
     BukkitScheduler scheduler = Bukkit.getScheduler();
     private final App plugin = App.getPlugin(App.class);
 
-    final String[] deathMessages = {"faced the wrath of some god...", "blew up and acted like they don't know nobody..", "got shit on", "yee'd their last haw", "combusted", "got canceled"};
+    final String[] deathMessages = {"faced the wrath of some god...", "blew up and acted like they don't know nobody..", "got shit on", "yee'd their last haw", "combusted", "got canceled", "shit the bed", "was swallowed by the abyss", "went splat!", "'sploded", "pulled an Icarus", "was not an ally", "downloaded TikTok", "got hackeded", "was lactose intolerant"};
     
     Words words = new Words();
 
